@@ -1,5 +1,7 @@
 import { useState } from 'react';
 import ValidateForm from "./ValidateForm";
+import * as React from "react";
+
 
 
 
@@ -40,17 +42,17 @@ function ContactContent(){
 		                <div className="row" id="contact">
 		                    <div className="col-md-6 col-lg-4">
 		                        <h4>Adresse</h4>
-		                        <p>Cocody, Abidjan, Cote d'Ivoire</p>
+		                        <p>18 rue duquesne, Gatineau, J8Y 3J3</p>
 		                    </div>
 
 		                    <div className="col-md-6 col-lg-4">
 		                        <h4>Contact</h4>
-		                        <p>(+225) 07 09 83 3038</p>
+		                        <p>(+1) 5142963045</p>
 		                    </div>
 
 		                    <div className="col-md-6 col-lg-4">
 		                        <h4>Adresse email</h4>
-		                        <p>hello@jina.com</p>
+		                        <p> lyzkuam@gmail.com</p>
 		                    </div>
 
 

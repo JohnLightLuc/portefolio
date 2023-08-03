@@ -1,3 +1,4 @@
+import * as React from "react";
 
 
 
@@ -8,12 +9,12 @@ function HomeContent(){
 		<>
 			<section id="about" className="container-fluid">
 		        <div className="col-xs-8 col-md-4 profile-picture">
-		            <img src="images/photo-profil.jpeg" alt="Jina" className="img-circle" />
+		            <img src="images/photo.jpeg" alt="Kuame ahou Louise blanche" className="img-circle" style={{height: "20rem"}} />
 		        </div>
 		        <div className="heading">
-		            <h1>Bienvenue , c'est Jina</h1>
+		            <h1>Bienvenue , c'est Kuame ahou Louise blanche</h1>
 		            <h3>Développeuse Web</h3>
-		            <a href="docs/CV_JOHN.pdf" className="button1">Télécharger CV</a>                                                                                                                                                                                                                                    
+		            <a href="#" className="button1">Télécharger CV</a>                                                                                                                                                                                                                                    
 
 		        </div>
 		    </section>
@@ -25,7 +26,7 @@ function HomeContent(){
 		        </div>
 		        <div className="container" id="presenatation-text">
 		            <p>
-		                Je suis Jina, étudiante passionnée de développement web.Je suis une femme talentueuse, créative et déterminée, qui se démarque par son expertise dans le domaine de la programmation et du design.
+		                Je suis Kuame ahou Louise blanche, étudiante passionnée de développement web.Je suis une femme talentueuse, créative et déterminée, qui se démarque par son expertise dans le domaine de la programmation et du design.
 		            </p>
 		            <p>
 		                Jai commencé mon parcours en informatique dès mon plus jeune âge, et mon amour pour la technologie m'a guidée vers le développement web. J'ai étudié rigoureusement les langages de programmation tels que HTML, CSS et JavaScript, acquérant ainsi une solide
